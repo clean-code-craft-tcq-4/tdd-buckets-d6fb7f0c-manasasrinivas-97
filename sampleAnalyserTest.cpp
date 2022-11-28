@@ -1,9 +1,9 @@
 #define CATCH_CONFIG_MAIN // This tells Catch to provide a main() - only do this in one cpp file
 
 #include "test/catch.hpp"
-#include "sample_analyser.h"
-#include "high_fidelity_current_sensor.h"
-#include "charge_discharge_current_sensor.h"
+#include "sampleAnalyser.h"
+#include "highFidelityCurrentSensor.h"
+#include "chargeDischargeCurrentSensor.h"
 using namespace std;
 
 std::vector<std::string> checkRange(std::vector<int> input_sample)
