@@ -81,6 +81,7 @@
 #  define CATCH_PLATFORM_WINDOWS
 #endif
 
+
 // end catch_platform.h
 
 #ifdef CATCH_IMPL
