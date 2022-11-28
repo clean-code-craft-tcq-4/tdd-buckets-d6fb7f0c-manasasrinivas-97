@@ -1,4 +1,4 @@
-#include "high_fidelity_current_sensor.h"
+#include "highFidelityCurrentSensor.h"
 
 using namespace std;
 
