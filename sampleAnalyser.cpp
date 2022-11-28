@@ -1,4 +1,4 @@
-#include "sample_analyser.h"
+#include "sampleAnalyser.h"
 using namespace std;
 
 std::vector<std::string> generateRange(std::vector<int> input_sample, std::vector<std::string> rangeList)
